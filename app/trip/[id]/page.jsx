@@ -51,7 +51,7 @@ export default function TripPage() {
       if (!cancelledRef.current) {
         window.location.href = isIOS ? storeUrlIOS : storeUrlAndroid;
       }
-    }, 1500); // 1.5s est un bon compromis
+    }, 2000); // 1.5s est un bon compromis
 
     return () => {
       window.removeEventListener('visibilitychange', onVis);
