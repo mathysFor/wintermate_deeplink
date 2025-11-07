@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "J9UZJV4K79.org.reactjs.native.example.WinterAcademyNew",
+        "paths": [ "/trip/*" ]
+      }
+    ]
+  }
+}

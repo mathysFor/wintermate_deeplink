@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.winteracademynew",
+      "sha256_cert_fingerprints": [
+        "D5:31:77:91:E9:ED:51:D2:4D:3E:88:87:6E:85:13:B9:98:18:D8:31:EF:14:BB:08:F7:14:32:68:28:D8:4B:5E"
+      ]
+    }
+  }
+]
